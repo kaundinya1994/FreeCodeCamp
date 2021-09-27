@@ -1,0 +1,27 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  },
+  "description": "A project that does something awesome",
+  "version": "2.10.2",
+  "keywords": [
+    "freecodecamp",
+    "descriptive",
+    "related",
+    "words"
+  ],
+  "author": "R V Kaundinya",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
